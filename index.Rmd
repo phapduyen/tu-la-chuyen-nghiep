@@ -1,0 +1,45 @@
+---
+title: "Tu Là Chuyển Nghiệp"
+author: "HT. Thích Thanh Từ"
+site: bookdown::bookdown_site
+fontsize: 12pt
+output:
+  bookdown::gitbook:
+    config:
+      fontsettings:
+        theme: night
+        family: sans
+        size: 2
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+classoption: oneside
+
+description: "Tuyển tập 7 bài viết về Nghiệp trong Phật giáo"
+cover-image: "images/cover.png"
+---
+# Giới thiệu {-}
+
+<center>![Cover Image](images/cover_resized.png){width=412px}</center>
+<br>  
+  
+Tuyển tập 7 bài viết về Nghiệp trong Phật giáo của Hòa thượng Thích Thanh Từ:  
+
+- [Tu là phải hiền](https://phapduyen.github.io/tu-la-chuyen-nghiep/tu-la-phai-hien)
+- [Nghiệp dẫn đi trong luân hồi lục đạo](https://phapduyen.github.io/tu-la-chuyen-nghiep/nghiep-dan-di-trong-luan-hoi-luc-dao)
+- [Biệt nghiệp và đồng nghiệp](https://phapduyen.github.io/tu-la-chuyen-nghiep/biet-nghiep-va-dong-nghiep)
+- [Chánh báo và y báo](https://phapduyen.github.io/tu-la-chuyen-nghiep/chanh-bao-va-y-bao)
+- [Bồ Tát sợ nhân, chúng sanh sợ quả](https://phapduyen.github.io/tu-la-chuyen-nghiep/bo-tat-so-nhan-chung-sanh-so-qua)
+- [Thần thông và nghiệp lực](https://phapduyen.github.io/tu-la-chuyen-nghiep/than-thong-va-nghiep-luc)
+- [Tu có chuyển được nhân quả không?](https://phapduyen.github.io/tu-la-chuyen-nghiep/tu-co-chuyen-duoc-nhan-qua-khong)
+
+Download:  
+
+- [EPUB](https://phapduyen.github.io/tu-la-chuyen-nghiep/tu-la-chuyen-nghiep.epub)
+- [PDF](https://phapduyen.github.io/tu-la-chuyen-nghiep/tu-la-chuyen-nghiep.pdf)
+
+Hoan nghênh chia sẻ!  
+
+___
+<small>Icons made by [Vectors Market](https://www.flaticon.com/authors/vectors-market) from [www.flaticon.com](https://www.flaticon.com)</small>  
+<small>[Background vector created by macrovector_official - www.freepik.com](https://www.freepik.com/vectors/background)</small>
