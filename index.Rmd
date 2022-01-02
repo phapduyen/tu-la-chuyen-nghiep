@@ -18,7 +18,7 @@ classoption: oneside
 description: "Tuyển tập 7 bài viết về Nghiệp trong Phật giáo"
 cover-image: "images/cover.png"
 ---
-# Giới thiệu {-}
+# Giới thiệu {- #gioi-thieu}
 
 <center>![Cover Image](images/cover_resized.png){width=412px}</center>
 <br>  
